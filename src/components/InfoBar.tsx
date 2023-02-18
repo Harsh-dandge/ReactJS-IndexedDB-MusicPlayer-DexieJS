@@ -13,7 +13,7 @@ const InfoBar = () => {
     return(
         <div className={"w-full flex justify-between text-2xl dark:text-white p-3 px-5"}>
             <div>
-                <a href="https://github.com/prasadthx/ReactJS-IndexedDB-MusicPlayer-DexieJS"><BsGithub/></a>
+                <a href="https://github.com/Harsh-dandge/ReactJS-IndexedDB-MusicPlayer-DexieJS"><BsGithub/></a>
             </div>
             <div className="cursor-pointer">
                 {theme === "dark" ? <FiMoon onClick={()=>toggleTheme(theme, setTheme)}/>:<ImSun onClick={()=>toggleTheme(theme, setTheme)}/>}
