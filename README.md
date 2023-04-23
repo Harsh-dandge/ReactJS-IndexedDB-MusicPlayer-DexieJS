@@ -6,7 +6,7 @@
 
 # Screenshots:-
 
-<img src="./ss1.png"/>
+<img src="./Screenshot 2023-04-23 134736.png"/>
 
 <img src="./ss2.png"/>
 
